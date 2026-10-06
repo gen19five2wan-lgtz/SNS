@@ -1,7 +1,9 @@
 # 今日やること(アカウントと計測の準備)
 
-対象は TikTok と Threads の2つ。Xは作らない(余力が出た日にThreadsの文章を転記するのは可)。
-所要の目安: 60分以内。
+対象は TikTok・Threads・X の3つ(2026-10-06 更新: Xは、Threadsと同じ文を出して比較するため復活。作業は転記のみ)。
+所要の目安: 70分以内。
+
+Xのプロフィールは、Threadsと同じ文(下)を使い、リンクはX用のURL(`utm_source=x`)にする。
 
 ## 1. アカウント作成
 
@@ -35,6 +37,7 @@
 |---|---|
 | TikTok | `FORM_URL?utm_source=tiktok&utm_medium=bio&utm_campaign=undokai` |
 | Threads | `FORM_URL?utm_source=threads&utm_medium=bio&utm_campaign=undokai` |
+| X | `FORM_URL?utm_source=x&utm_medium=bio&utm_campaign=undokai` |
 | Instagram(誘導元) | `FORM_URL?utm_source=instagram&utm_medium=bio&utm_campaign=undokai` |
 
 **注意(重要)**: Googleフォームは、URLのUTMパラメータを回答に記録しない。UTMだけでは、どのSNSから来たか集計できない。
