@@ -16,6 +16,7 @@ SNSだけで60人を取る設計にはしない。SNSの役割は、新規層へ
 | `prompts/daily_draft.md` | **下書き生成テンプレート** |
 | `prompts/daily_report.md` | **数字を貼ると分析を返す型** |
 | `decision_rules.md` | 10/8の判定ルール(判断不能の条件を含む) |
+| `research/2026-10-06.md` | SNS集客リサーチ(信頼度つき)と、プランへの反映案 |
 | `log/posts.csv` | 投稿ログ(【SNS・型】タグ付き、数字は24〜48時間後に追記) |
 | `log/daily_numbers.csv` | 日次の数字(フォーム回答、SNS別) |
 | `log/recontact.csv` | 8/14に申し込んだ131人への再連絡の状況(**人数のみ。名前は書かない**) |
